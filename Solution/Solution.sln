@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89A6A27F-597D-408E-A4C6-02FA4FD6555A}"
 	ProjectSection(SolutionItems) = preProject
 		..\testfiles\AnsiFile.txt = ..\testfiles\AnsiFile.txt
+		..\README.md = ..\README.md
 		..\testfiles\UnicodeBigEndianFile.txt = ..\testfiles\UnicodeBigEndianFile.txt
 		..\testfiles\UnicodeFile.txt = ..\testfiles\UnicodeFile.txt
 		..\testfiles\UTF8File.txt = ..\testfiles\UTF8File.txt
