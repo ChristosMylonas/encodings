@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89A6A27F-597D-408E-A4C6-02FA4FD6555A}"
+	ProjectSection(SolutionItems) = preProject
+		..\testfiles\AnsiFile.txt = ..\testfiles\AnsiFile.txt
+		..\testfiles\UnicodeBigEndianFile.txt = ..\testfiles\UnicodeBigEndianFile.txt
+		..\testfiles\UnicodeFile.txt = ..\testfiles\UnicodeFile.txt
+		..\testfiles\UTF8File.txt = ..\testfiles\UTF8File.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5156A16B-ACA6-4BBD-A59E-B7E7FC1B3295}
+	EndGlobalSection
+EndGlobal
